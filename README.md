@@ -2,7 +2,7 @@
 
 Run script in MacOS Terminal
   
-  >> python3 lighter_funding_to_blockpit.py lighter_funding_history.csv funding_for_blockpit.csv
+  > python3 lighter_funding_to_blockpit.py lighter_funding_history.csv funding_for_blockpit.csv
 
 converts the lighter funding history to "Derivative Profit" or "Derivative Loss" Type transactions
 Processes each asset individually
