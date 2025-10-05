@@ -1,3 +1,21 @@
+**aster_spot_blockpit.py**
+
+Run script in MacOS Terminal
+
+> python3 aster_spot_blockpit.py aster_copy_paste.txt aster_spot_blockpit.csv
+
+copy paste trade history directly from aster website and dump in to aster_copy_paste.txt
+make sure to use plaintext format in txt file 
+
+Assumes that all fees are paid in USDT --> hardcoded
+
+So if you are using aster to pay fees or are trading USDC, it needs to be adapted
+
+Adds "Aster Spot" to comment section for each trade
+
+Integration Name "Aster"
+
+
 **lighter_funding_to_blockpit.py**
 
 Run script in MacOS Terminal
